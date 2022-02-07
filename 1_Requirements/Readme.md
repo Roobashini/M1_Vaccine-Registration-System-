@@ -13,8 +13,14 @@ Disadvantages
 Cannot add large number of new registrations due to local server limitations.
 Encryption is not enabled to protect the data.
 OTP verification is not activated for new registrations.
+
 SWOT Analysis
+
 SWOT analysis
+
+![image](https://user-images.githubusercontent.com/68070984/152712692-385f5bed-7444-42d4-9b3d-f5d4f8cd8199.png)
+
+
 
 
 
