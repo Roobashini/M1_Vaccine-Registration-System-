@@ -5,4 +5,4 @@ LR01	  Only new user must be given an option to select vaccine type	            
 LR02	  Total quantity of vaccines used must be shown by EOD	                       Implemented
 LR03	  Full list of patients vaccinated must be set as output	                     Implemented
 LR04    Remaining and present stock of vaccines must be tracked	                      Future
-LR05	  Vaccine vials must be tracked for its use within a day	                      Future
+LR05	  Vaccine vials must be tracked for its use within a day	                        Future
