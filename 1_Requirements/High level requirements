@@ -8,5 +8,6 @@ HR03	System should recognize vaccinated patients	                           Impl
 HR04	OTP generated verification for secure registration	                   Future
 HR05	System should recognize invalid credentials	                           Future
 HR06	System should be updated with the time interval between two doses	     Future
+
   
        
